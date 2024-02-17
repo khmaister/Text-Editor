@@ -2,7 +2,7 @@
 GitHub Repo: https://github.com/khmaister/Text-Editor
 
 ## Description
-Just Another Text Editor (JATE) is an online nrowser based text editor that can also be downloaded and used without internet.
+Just Another Text Editor (JATE) is an online browser based text editor that can also be downloaded and used without internet.
 
 ## Installation
 Simply click on the Live Link and run the application in the browser, then click "Install" on the top-left corner of the page. 
